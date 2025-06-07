@@ -19,7 +19,7 @@ A lightweight and accessible Chrome Extension that reads web content aloud — p
 <img src="icons/icon.png" alt="Extension Icon" width="128">
 ```
 ---
-
+ 
 ## 📦 Folder Structure
 
 ```
@@ -64,8 +64,8 @@ Make sure your icon is a square PNG (128x128 recommended).
 ---
 
 ## 🧠 Developers
-- **Adonis Jeswin**
-- **Krishal Haria**
+- ***Adonis Jeswin***
+- ***Krishal Haria***
 
 ---
 
